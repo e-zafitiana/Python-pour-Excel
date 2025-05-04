@@ -10,3 +10,4 @@ Ce projet contient des exercices pour apprendre à manipuler des fichiers Excel 
 ## Contenu
 - `Week 0` : Préparer son environnement Python
 - `Week 1` : Lire et manipuler un fichier Excel
+- `Week 2` : Manipulation et formatage avancé de fichiers Excel
